@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fit-app/static/css/main.3add45c7.css",
+    "main.js": "/fit-app/static/js/main.f6d795d1.js",
+    "static/media/banner.png": "/fit-app/static/media/banner.45e4ab7dbd221ff0f460.png",
+    "static/media/Logo.png": "/fit-app/static/media/Logo.fee832b16511668f8d5d.png",
+    "static/media/gym.png": "/fit-app/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/fit-app/index.html",
+    "main.3add45c7.css.map": "/fit-app/static/css/main.3add45c7.css.map",
+    "main.f6d795d1.js.map": "/fit-app/static/js/main.f6d795d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3add45c7.css",
+    "static/js/main.f6d795d1.js"
+  ]
+}
